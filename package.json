@@ -1,6 +1,6 @@
 {
   "name": "web_server_learning",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple Web Server using Node.js",
   "main": "bin/www.js",
   "scripts": {
